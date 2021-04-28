@@ -1,2 +1,2 @@
 # system regulatorio
- Estudo html,css, bootstrap 4
+ Site feito para estudos (HTML,CSS,BOOTSTRAP 4)
